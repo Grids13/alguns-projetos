@@ -1,0 +1,69 @@
+
+
+body{ 
+      background-color: rgb(196, 172, 172);
+      font-family: verdana, sans-serif;
+      max-width: 1100px; 
+      margin: auto;
+}
+
+#titulo_principal,.titulo_post, .subpost { 
+    color: rgb(61, 66, 76);
+    
+
+}
+.img_mulher{
+      border:6px solid black;
+       border-radius: 50%;   //deixar a foto redonda 
+      
+
+}
+
+.titulo_principal{
+      font-size: 40px;
+      text-transform: uppercase; //deixar tudo maiusculo
+
+}
+
+a{
+      text-decoration: line-through;
+      color: rgb(50, 32, 32);
+}
+
+.titulo_post{
+  font-size: 16px;
+  font-style: italic;
+  margin: 0%;
+  margin-bottom: 15px;
+ } 
+
+ .artigo{ 
+background-color: rgb(210, 210, 210);
+padding:15px;
+border:4px;
+border-style: solid;
+border-color: rgb(58, 54, 54);
+margin-bottom:15px;
+border-radius: 5px;
+ }
+
+ .post_content{
+margin: 0%;
+margin-bottom:15px;
+text-transform: capitalize; //primeira letra de cada palavra maiuscula
+ }
+  
+.post_imagi{
+margin-bottom: 15px ;
+}
+
+.lista{
+      list-style-type:none;     
+      padding-left: 15px; 
+}
+
+.lista li a{
+      color: blue;
+      text-decoration: underline;
+
+}

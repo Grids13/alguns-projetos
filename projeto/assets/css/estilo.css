@@ -1,0 +1,17 @@
+
+body{
+    background: rgb(202, 206, 208);
+
+
+}
+
+.titulo{font-size: 50px;
+           font-family: Arial, Helvetica, sans-serif;
+           color: rgb(128, 46, 172);
+           letter-spacing: 1px;
+           margin: 30px;
+           box-sizing: border-box;
+           background-color: rgb(158, 177, 224);
+           border-bottom: 3px solid rgb(24, 91, 216);
+           
+}
